@@ -18,13 +18,6 @@
             "LightSaml\\SymfonyBridgeBundle\\": "src/"
         }
     },
-    "repositories":
-    [
-        {
-            "type": "vcs",
-            "url": "https://github.com/migelx/lightSAML"
-        }
-    ],
     "require": {
         "php": ">=5.5.1",
         "symfony/framework-bundle": "~2.3|~3.0",
