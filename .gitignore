@@ -38,3 +38,4 @@
 /composer.lock
 /*.phar
 /*.cache
+.idea/workspace.xml
